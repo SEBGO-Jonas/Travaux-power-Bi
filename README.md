@@ -13,7 +13,12 @@ Tableau de bord **Power BI** interactif permettant de suivre l'activité commerc
 | `README.md` | Ce fichier. |
 
 > 💡 GitHub ne propose pas d'aperçu visuel des fichiers `.pbix` (fichier binaire) : seul un lien de téléchargement s'affichera. Pensez à ajouter une **capture d'écran** du dashboard dans le README (ex : `docs/apercu.png`) pour illustrer le rendu directement sur la page du dépôt.
+## 🖼️ Aperçu du dashboard
 
+![Accueil](docs/accueil.png)
+![Tableau de bord](docs/tableau.png)
+![Détails](docs/details.png)
+![Personnalisation](docs/personnalisation.png)
 ## 🗂️ Modèle de données
 
 Le rapport s'appuie sur une table unique : **`commande client produit`**, contenant :
